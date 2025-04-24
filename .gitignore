@@ -24,3 +24,7 @@ Pods/
 
 # Swift Package Manager
 .build/
+
+# Bazel
+bazel-*
+MODULE.bazel.lock
